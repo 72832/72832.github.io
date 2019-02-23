@@ -106,10 +106,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michael Jones"
+  name             : "72832 Community"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Robo Nerd"
-  location         : "Somewhere"
+  bio              : "Robo Nerds"
+  location         : "Lehi, Utah"
   email            : "acetousk@gmail.com"
   links:
     - label: "Email"
@@ -117,10 +117,10 @@ author:
       url: mailto:acetousk@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://dmichaeljones.com/blog"
+      url: "https://72832.github.io/blog"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/acetousk"
+      url: "https://github.com/72832"
 
 # Site Footer
 footer:
